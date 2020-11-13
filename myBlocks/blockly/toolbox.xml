@@ -1,0 +1,5 @@
+<category id="myBlocks">
+  <category id="myCategory1" name="myCategory1">
+    <block type="sayhello"></block>
+  </category>
+</category>
